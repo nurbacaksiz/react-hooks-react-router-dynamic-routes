@@ -8,5 +8,6 @@ function MoviesPage({ movies }) {
       <MoviesList movies={movies} />
     </div>
   );
+  
 }
 export default MoviesPage;
